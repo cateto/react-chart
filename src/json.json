@@ -1,0 +1,6 @@
+{
+    "data" : {
+        "people" : "name",
+        "age" : "number"
+    }
+}
